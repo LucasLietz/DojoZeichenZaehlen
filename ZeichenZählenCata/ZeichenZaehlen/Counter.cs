@@ -5,7 +5,7 @@
 
     /// <summary>
     /// This method is the central logic for counting things.
-    /// In this case we count the amount of strings in a sentence..
+    /// In this case we count the amount of strings in a sentence.
     /// </summary>
     public class Counter
     {
