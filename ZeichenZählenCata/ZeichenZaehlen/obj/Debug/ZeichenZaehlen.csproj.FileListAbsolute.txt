@@ -3,3 +3,6 @@ c:\users\lucas\documents\visual studio 2013\Projects\ZeichenZählenCata\ZeichenZ
 c:\users\lucas\documents\visual studio 2013\Projects\ZeichenZählenCata\ZeichenZaehlen\bin\Debug\ZeichenZaehlen.pdb
 c:\users\lucas\documents\visual studio 2013\Projects\ZeichenZählenCata\ZeichenZaehlen\obj\Debug\ZeichenZaehlen.exe
 c:\users\lucas\documents\visual studio 2013\Projects\ZeichenZählenCata\ZeichenZaehlen\obj\Debug\ZeichenZaehlen.pdb
+C:\Users\Lucas\Documents\Repos\Dojos\ZeichenZaehlen\ZeichenZählenCata\ZeichenZaehlen\bin\Debug\ZeichenZaehlen.exe.config
+C:\Users\Lucas\Documents\Repos\Dojos\ZeichenZaehlen\ZeichenZählenCata\ZeichenZaehlen\obj\Debug\ZeichenZaehlen.exe
+C:\Users\Lucas\Documents\Repos\Dojos\ZeichenZaehlen\ZeichenZählenCata\ZeichenZaehlen\obj\Debug\ZeichenZaehlen.pdb
